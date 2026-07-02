@@ -26,7 +26,7 @@ console.log("Student name:"+studentname);
 console.log("marks:"+marks);
 console.log("Grade:"+grade);
 alert(
-    "Student name:"+studentname+
+    "Student Name:"+studentname+
     "\nmarks:"+marks+
     "\ngrade:"+grade
 );
